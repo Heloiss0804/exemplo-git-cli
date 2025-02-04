@@ -6,5 +6,7 @@
 - git status              -> exibe informações do repositório/branch
 - git branc -m main       -> renomear a branch de **master** para **main**
 - git add .               -> adicionar arquivos ao **stage**
-git commit -m "Mensagem"  -> comitar com mensagens as alterações feitas
+- git commit -m "Mensagem"  -> comitar com mensagens as alterações feitas
 - git log                 -> exibe o hostórico de comits no repositório
+- git remote add ENDEREÇO_REPOSITÓRIO -> remoto como referência para local
+- git push origin main    -> executa o push enviando as alterações para repositótio remoto (origin)
